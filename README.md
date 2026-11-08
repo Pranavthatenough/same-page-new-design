@@ -1,6 +1,4 @@
-# Project 17 · Same Page, New Design
-
-**Section D · Video, skills and design** — GenAI Internship, Week 2, Bharat Space Education Research Centre
+# Same Page, New Design
 
 One plain web page for an imaginary Bengaluru breakfast café, **The Tiffin Room**, built twice with exactly the same words:
 
